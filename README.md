@@ -1,5 +1,3 @@
-# sql-data-warehouse-project
-Modern Data Warehousing with SQL Server: ETL, Modeling, and Analytics
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
@@ -26,7 +24,7 @@ Build a modern SQL Server data warehouse that consolidates sales data from multi
 
 ---
 
-## 📊 Business Analytics & Reporting
+## 📊 BI:Business Analytics & Reporting
 
 ### Objective
 
